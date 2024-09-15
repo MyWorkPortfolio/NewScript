@@ -36,3 +36,16 @@ Videos/
 .viminfo
 .vscode/
 WPS Cloud Files/
+
+# Ignore temporary and system files
+-1.14-windows.xml
+.marsh.sh.swp
+.redhat/
+IntelGraphicsProfiles/
+Marshall/
+Untitled.ipynb
+UrbanVPN/
+ntuser.ini
+order-summary-component/
+pipe1.lnk
+
