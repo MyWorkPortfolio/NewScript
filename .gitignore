@@ -1,0 +1,38 @@
+# Exclude Windows system directories
+Application Data/
+Cookies/
+Documents/My Pictures/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+ntuser.dat*
+AppData/
+Contacts/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Saved Games/
+Searches/
+Videos/
+
+# Exclude user-specific configuration files
+.bash_history
+.docker/
+.gitconfig
+.idlerc/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.lesshst
+.minttyrc
+.ssh/
+.viminfo
+.vscode/
+WPS Cloud Files/
